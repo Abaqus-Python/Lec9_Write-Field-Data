@@ -1,0 +1,12 @@
+main ODB and sub-ODB file and data file Google drive link:
+https://drive.google.com/drive/folders/1ZhTclKaI46YN7y0Z8sQVj3Du6sHXls9L?usp=sharing
+1. interference_fit.odb - Main ODB file.
+2. subodb.odb - Sample output sub-ODB file.
+3. disp.dat - Sample data file.
+
+Abaqus 2016 All PDF Documentation Google drive link:
+https://drive.google.com/drive/folders/1zSezgheOWYJckeVGEgDYizSZR6EJSP8U?usp=sharing
+
+For online Official Documentation, create an account at below link:
+You will find the all Abaqus version documentation here.
+https://eu1.iam.3dexperience.3ds.com/
